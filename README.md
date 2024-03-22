@@ -35,9 +35,9 @@ cmake --build .\build
 ```
 Find the program in build path and run
 ```bash
-capcam -i [camera index]
+capcam [camera index]
 ```
-try camera index 0, 1 and soon.
+try camera index 0, 1 and soon. To close window touch a key.
 
 Useful links
 * https://learn.microsoft.com/es-mx/vcpkg/get_started/get-started?pivots=shell-cmd
